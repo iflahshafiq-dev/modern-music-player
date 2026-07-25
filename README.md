@@ -18,7 +18,7 @@ A modern responsive music player built with HTML, CSS and JavaScript featuring p
 
 ## Live Demo
 
-(Add GitHub Pages link)
+ https://iflahshafiq-dev.github.io/modern-music-player/
 
 ## Author
 
